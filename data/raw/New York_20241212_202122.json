@@ -1,0 +1,42 @@
+{
+    "request": {
+        "type": "City",
+        "query": "New York, United States of America",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "New York",
+        "country": "United States of America",
+        "region": "New York",
+        "lat": "40.714",
+        "lon": "-74.006",
+        "timezone_id": "America/New_York",
+        "localtime": "2024-12-12 09:24",
+        "localtime_epoch": 1733995440,
+        "utc_offset": "-5.0"
+    },
+    "current": {
+        "observation_time": "02:24 PM",
+        "temperature": 2,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+        ],
+        "weather_descriptions": [
+            "Sunny"
+        ],
+        "wind_speed": 29,
+        "wind_degree": 246,
+        "wind_dir": "WSW",
+        "pressure": 1019,
+        "precip": 0,
+        "humidity": 54,
+        "cloudcover": 0,
+        "feelslike": -3,
+        "uv_index": 0,
+        "visibility": 16,
+        "is_day": "yes"
+    },
+    "timestamp": "2024-12-12 20:21:22"
+}

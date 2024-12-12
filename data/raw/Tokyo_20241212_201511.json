@@ -1,0 +1,42 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Tokyo, Japan",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Tokyo",
+        "country": "Japan",
+        "region": "Tokyo",
+        "lat": "35.690",
+        "lon": "139.692",
+        "timezone_id": "Asia/Tokyo",
+        "localtime": "2024-12-12 23:37",
+        "localtime_epoch": 1734046620,
+        "utc_offset": "9.0"
+    },
+    "current": {
+        "observation_time": "02:37 PM",
+        "temperature": 7,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+        ],
+        "weather_descriptions": [
+            "Clear"
+        ],
+        "wind_speed": 10,
+        "wind_degree": 350,
+        "wind_dir": "N",
+        "pressure": 1018,
+        "precip": 0,
+        "humidity": 42,
+        "cloudcover": 0,
+        "feelslike": 5,
+        "uv_index": 0,
+        "visibility": 10,
+        "is_day": "no"
+    },
+    "timestamp": "2024-12-12T20:15:11.624510"
+}

@@ -1,0 +1,10 @@
+pyspark==3.5.0
+requests==2.31.0
+matplotlib==3.8.2
+plotly==5.18.0
+pandas==2.1.4
+python-dotenv==1.0.0
+schedule==1.2.1
+dash==2.14.2
+dash-core-components==2.0.0
+dash-html-components==2.0.0

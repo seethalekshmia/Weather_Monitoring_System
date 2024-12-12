@@ -1,0 +1,42 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Mumbai, India",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Mumbai",
+        "country": "India",
+        "region": "Maharashtra",
+        "lat": "18.975",
+        "lon": "72.826",
+        "timezone_id": "Asia/Kolkata",
+        "localtime": "2024-12-12 20:14",
+        "localtime_epoch": 1734034440,
+        "utc_offset": "5.50"
+    },
+    "current": {
+        "observation_time": "02:44 PM",
+        "temperature": 27,
+        "weather_code": 122,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+        ],
+        "weather_descriptions": [
+            "Smoke"
+        ],
+        "wind_speed": 26,
+        "wind_degree": 347,
+        "wind_dir": "NNW",
+        "pressure": 1011,
+        "precip": 0,
+        "humidity": 48,
+        "cloudcover": 0,
+        "feelslike": 29,
+        "uv_index": 0,
+        "visibility": 3,
+        "is_day": "no"
+    },
+    "timestamp": "2024-12-12T20:15:13.500305"
+}
